@@ -1,6 +1,6 @@
 {
   "name": "atomic-net",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Atomic Nethernet is a Node.JS implementation of the Nethernet protocol for Minecraft Bedrock.",
   "type": "commonjs",
   "main": "dist/index.js",
